@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PackageManifest Version="2.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2011" xmlns:d="http://schemas.microsoft.com/developer/vsx-schema-design/2011">
     <Metadata>
-        <Identity Id="CppCommentRegionFolding.36e71df1-86c0-4691-b7df-10c019839dd2" Version="1.0" Language="en-US" Publisher="HP Inc." />
+        <Identity Id="CppCommentRegionFolding.36e71df1-86c0-4691-b7df-10c019839dd2" Version="1.0" Language="en-US" Publisher="Federico Mulass" />
         <DisplayName>CppCommentRegionFolding</DisplayName>
         <Description xml:space="preserve">Cpp region folding using // #region commennts</Description>
         <License>LICENSE.txt</License>
