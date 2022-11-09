@@ -5,6 +5,7 @@
         <DisplayName>CppCommentRegionFolding</DisplayName>
         <Description xml:space="preserve">Cpp region folding using // #region commennts</Description>
         <License>LICENSE.txt</License>
+        <Icon>icon.png</Icon>
     </Metadata>
     <Installation>
         <InstallationTarget Id="Microsoft.VisualStudio.Community" Version="[16.0, 17.0)" />
