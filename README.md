@@ -4,7 +4,7 @@ Porting of the original project
 Credits to original project project https://github.com/madskristensen/JavaScriptRegions
 that adds support for region comments in C/C++ files.
 
-Download this extension from the [VS Marketplace]()
+Download this extension from the [VS Marketplace](https://marketplace.visualstudio.com/items?itemName=FedericoMulas.CppCommentRegionFolding)
 
 ## Features
 
